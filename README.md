@@ -1,3 +1,3 @@
 ## Kathy Tamerlano IT1025
 
-I am taking this course as a part of the Cybersecurity degree path.
+IT1025 is the first course in the Cybersecurity degree path as well as Networking, Programming and Development, Business Solutions and all of the Tri-C IT certificates. I plan to complete the Cybersecurity degree and pursue a co-op along the way.
