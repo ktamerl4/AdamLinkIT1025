@@ -9,11 +9,15 @@ response
 
 response
 
-### Lossless vs. Lossy Gompression
+### Lossless vs. Lossy Compression
 
 response
 
-### File FOrmats
+### File Formats
+
+response
+
+### File Properties
 
 response
 
