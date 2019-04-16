@@ -1,11 +1,15 @@
 ### Executive Summary 
 Include your executive summary here...
 
-### Python
+### Virtualization
+response
 
+### Python
+response
+
+### Careers in Computing
 response
 
 ### Conclusion
-
 Include your professional conclusion here
 
