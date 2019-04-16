@@ -1,7 +1,19 @@
 ### Executive Summary 
 Include your executive summary here...
 
-### Hardware
+### ALU and Control Unit
+response
+
+### CPU, Memory, Input & Output
+response
+
+### IEEE and Ethically Aligned Design
+response
+
+### Data Representation
+response
+
+### Logic Gates and Circuits
 response
 
 ### Data Representation
