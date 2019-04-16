@@ -5,7 +5,7 @@ Include your executive summary here...
 
 response
 
-### Rster vs. Vector Graphics
+### Raster vs. Vector Graphics
 
 response
 
