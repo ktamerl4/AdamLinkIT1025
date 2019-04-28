@@ -16,7 +16,7 @@ response
 ### ALU and the Control Unit
 response
 
-### CPU, Memory, Input & Output
+### CPU, Input & Output
 response
 
 ### Logic Gates and Circuits
