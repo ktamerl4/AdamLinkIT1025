@@ -1,22 +1,34 @@
 ### Executive Summary 
 Include your executive summary here...
 
-### ALU and Control Unit
+### Numeric Conversions
 response
 
-### CPU, Memory, Input & Output
+### Hexadecimal Color Representation
 response
 
-### IEEE and Ethically Aligned Design
+### Software
 response
 
-### Data Representation
+### Virtualization
 response
 
-### Logic Gates and Circuits
+### Python
 response
 
-### Data Representation
+### Career Exploration
+response
+
+### Certifications
+response
+
+### Certificates and Degrees
+response
+
+### Co-ops / Internships
+response
+
+### Industry Associations / Student Organizations
 response
 
 ### Conclusion
