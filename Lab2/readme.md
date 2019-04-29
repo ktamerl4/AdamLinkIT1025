@@ -1,35 +1,19 @@
 ### Executive Summary 
 Include your executive summary here...
 
-### Numeric Conversions
-response
-
-### Hexadecimal Color Representation
-response
+### Data Representation
+##### Numeric Conversions
+##### Hexadecimal Color Representation
 
 ### Software
-response
-
-### Virtualization
-response
-
-### Python
-response
+##### Virtualization
+##### Python
 
 ### Career Exploration
-response
-
-### Certifications
-response
-
-### Certificates and Degrees
-response
-
-### Co-ops / Internships
-response
-
-### Industry Associations / Student Organizations
-response
+##### Certifications
+##### Certificates and Degrees
+##### Co-ops / Internships
+##### Industry Associations / Student Organizations
 
 ### Conclusion
 
