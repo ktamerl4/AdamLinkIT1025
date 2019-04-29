@@ -1,21 +1,20 @@
 ### Executive Summary 
 Include your executive summary here...
 
-### Python OOP
-##### 
-#####  
-##### 
+### Object Oriented Programming (OOP)
 
-### UML
-##### 
-##### 
+### Unified Modeling Language (UML)
 
-### Database
-##### 
+### Data, Information and Knowledge
+##### Relational Data
+##### Big Data
 
-### Structured Query Language (SQL)
+### Structured Query Language (SQL) Injections
 
 ### Ethical and Legal Implications
+##### Code of Ethics
+##### Intellectual Property
+##### Information Collection
 
 ### Conclusion
 Include your conclusion here...
