@@ -1,14 +1,15 @@
 ### Executive Summary 
 Include your executive summary here...
 
-### Virtualization
-response
+### Python IDLE
 
-### Python
-response
+##### Code Examples
 
-### Careers in Computing
-response
+### Introduction to Graphics
+
+### Lucidchart
+
+### Introduction to Networking
 
 ### Conclusion
 Include your professional conclusion here
