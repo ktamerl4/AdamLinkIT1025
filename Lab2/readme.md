@@ -6,8 +6,10 @@ Include your executive summary here...
 ##### Hexadecimal Color Representation
 
 ### Software
-##### Virtualization
-##### Python
+
+### Virtualization
+
+### Python
 
 ### Career Exploration
 ##### Certifications
