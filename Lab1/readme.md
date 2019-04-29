@@ -8,20 +8,12 @@ The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history
 ##### Client - Server Architecture
 ##### Cloud Computing
 
-### Hard Drives and Memory
-response
-
-### ALU and the Control Unit
-response
-
-### CPU, Input & Output
-response
-
-### Logic Gates and Circuits
-response
-
-### IEEE and Ethically Aligned Design
-response
+### Hardware
+##### Hard Drives and Memory
+##### ALU and the Control Unit
+##### CUP, Input & Output
+##### Logic Gates and Circuits
+##### IEEE
 
 ### Conclusion
 
