@@ -5,10 +5,8 @@ The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history
 
 
 ### GitHub
-#### 1. Client - Server Architecture
-response
-#### 2. Cloud Computing
-response
+1. Client - Server Architecture
+2. Cloud Computing
 
 ### Hard Drives and Memory
 response
