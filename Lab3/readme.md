@@ -5,7 +5,12 @@ Include your executive summary here...
 
 ##### Code Examples
 
-### Introduction to Graphics
+### Graphics
+
+##### Raster vs. Vector Graphics
+##### Lossless vs. Lossy Compression
+##### File Formats
+##### 
 
 ### Lucidchart
 
